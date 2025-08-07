@@ -32,7 +32,7 @@ export default function LoginPage() {
             {/* Lado izquierdo con logo */}
             <div className="hidden lg:flex w-full lg:w-1/2 bg-primary items-center justify-center p-12 text-white text-center shadow-2xl">
                 <img
-                    src="https://www.uptex.edu.mx/recursos/2021/logo-uptex-white.png"
+                    src="/logo-uptex.svg"
                     alt="Logo UPTEX"
                     className="mx-auto w-72 h-72 object-contain"
                     onError={(e) => {
